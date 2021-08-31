@@ -18,5 +18,6 @@ It uses the the Object Oriented Programming Concepts and Classes and Objects lik
    v. Search<br><br>
 
 Brief:<br>
-I have created a node class to store the data and used an utility class to perform all the operations. This utility class has been decalred as a friend class to the node class.
-
+I have created a node class to store the data and used an utility class to perform all the operations.<br>
+This utility class has been decalred as a friend class to the node class. <br>
+I have used Doubly Linked List to store maintain the connections with the previous and next Contact in the Phonebook.
