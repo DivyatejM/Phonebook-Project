@@ -11,8 +11,12 @@ It uses the the Object Oriented Programming Concepts and Classes and Objects lik
 2. Previous and Next Pointers to store the addresses of previous and next person in phonebook.<br><br>
 3. Created a Utility Class that is declared as a Friend Class that contains all the utility functions to perform operations.<br><br>
 4. Menu Driven Program that allows user to<br>
-  i. Display the Contact Details in the Phonebook.<br>
+   i. Display the Contact Details in the Phonebook.<br>
   ii. Insert New Contact.<br>
-  iii. Update Details.<br>
-  iv. Delete Contacts.<br><br>
-  
+ iii. Update Details.<br>
+  iv. Delete Contacts.<br>
+   v. Search<br><br>
+
+Brief:<br>
+I have created a node class to store the data and used an utility class to perform all the operations. This utility class has been decalred as a friend class to the node class.
+
